@@ -1,5 +1,5 @@
 
-public class _2241019447_Ass7_Q1 {
+public class _2241018160_Ass7_Q1 {
     public static void main(String[] args) {
         String str1 = "Hello";
         String str2 = "Hello";
