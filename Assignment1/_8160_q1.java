@@ -20,7 +20,7 @@ class Gaadi{
 	}
 }
 
-public class q1 {
+public class _8160_q1 {
 	public static void main(String[] args) {
         Gaadi myCar1 = new Gaadi("ISUZU", "MT");
 
